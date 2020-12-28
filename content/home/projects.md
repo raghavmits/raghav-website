@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Carbon Capture & Utilization
-    tag: Carbon Capture & Utilization
+  - name: Process Modeling
+    tag: process-modeling
+  - name: Machine Learning
+    tag: machine-learning
+  - name: Logistics
+    tag: logistics
   - name: Other
-    tag: Demo
+    tag: other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
