@@ -3,7 +3,7 @@ title: Adhesion Enhancement of Conductive Inks
 summary: Performed experiments to enhance adhesion of conductive inks on non-porous substrates for printing application
 tags:
 - other
-date: "2016-04-27T00:00:00Z"
+date: "2020-11-17T18:06:49+05:30"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -14,8 +14,8 @@ image:
 
 links:
 url_code: ""
-url_pdf: "media/adhesion.pdf"
-url_slides: ""
+url_pdf: "media/adhesion_report.pdf"
+url_slides: "media/adhesion.pdf"
 url_video: ""
 
 # Slides (optional).
