@@ -26,11 +26,9 @@ experience:
     company: M. N. Dastur & Co. (Energy & Process Metallurgy Division)
     company_url: 'http://www.dasturenergy.com/'
     location: Kolkata
-    date_start: 'July 2018'
+    date_start: '2017-01-01'
     date_end: ''
     description: |2-
-        Responsibilities:
-
         * Developing Process Models leveraging Machine Learning for Operations Improvement at Integrated Steel Plants
         * Designing Process Flow Diagrams (PFDs) for simulating CO2 Capture systems aimed at Industrial Waste Gas Utilization
 ---
