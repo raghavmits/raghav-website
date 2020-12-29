@@ -33,28 +33,4 @@ experience:
 
         * Developing Process Models leveraging Machine Learning for Operations Improvement at Integrated Steel Plants
         * Designing Process Flow Diagrams (PFDs) for simulating CO2 Capture systems aimed at Industrial Waste Gas Utilization
-
-  - title: Research Intern
-    company: National Center for Flexible Electronics (NCFlexe)
-    company_url: ''
-    location: IIT Kanpur
-    date_start: 'May 2017'
-    date_end: 'July 2017'
-    description: |2-
-        Experience:
-
-        * Performed experiments to enhance adhesion between inert polymer surfaces and conducting inks comprising silver nanoparticles
-        * Characterized the wettability, chemical composition and adhesion of the coated ink using Goniometer, FTIR and Scotch Tape
-
-  - title: Research Intern
-    company: Nimbkar Agricultural Research Institute
-    company_url: ''
-    location: Phaltan
-    date_start: 'May 2016'
-    date_end: 'July 2016'
-    description: |2-
-        Experience:
-
-        * Designed a water treatment plant based on solar sterlization to support a 3000-member village
-        * Designed a corresponding Solar based Vapor Absorption Refrigeration System calculating the efficiencies & load for the proposed plant
 ---
