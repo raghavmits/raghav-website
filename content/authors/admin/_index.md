@@ -6,12 +6,12 @@ title: Raghav Mittal
 superuser: true
 
 # Role/position/tagline
-role: Associate Consultant, M.N. Dastur & Co.
+role: Data Scientist, Looking for Roles
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: IIT Kanpur
-  url: https://www.iitk.ac.in/
+- name: UC Berkeley
+  url: https://www.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Carbon Capture & Utilization and Energy Systems Engineering.
@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: M.S. in Development Engineering, AI Focus
+    institution: UC Berkeley
+    year: 2022
   - course: B.Tech in Materials Science and Engineering
     institution: IIT Kanpur
     year: 2018
@@ -36,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:raghavmittal.wbs@gmail.com
+  link: mailto:raghav_m@berkeley.edu
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -67,8 +70,10 @@ email: ""
 highlight_name: false
 ---
 
-I am an Associate Consultant with {{< staticref "http://www.dastur.com/" "newtab" >}}M.N. Dastur & Co.{{< /staticref >}} in the {{< staticref "http://www.dasturenergy.com/" "newtab" >}}Energy{{< /staticref >}} and Process Metallurgy division since 2018. I have worked on projects in Sustainability and Operations Improvement for some of the leading players in the Iron & Steel and Oil & Gas industries. Parallelly, I have been developing predictive models aimed at enhancing process control by leveraging machine learning techniques.
+Raghav has extensive experience as a data scientist with a technology consulting firm, {{< staticref "http://www.dasturenergy.com/" "newtab" >}}Dastur Energy{{< /staticref >}}, advising steel companies on energy optimization, operations improvement and decarbonization strategies. Learning independently about advances in machine learning and its applications in manufacturing, he played a leading role in the organization, steering several initiatives in digital transformation. He has collaborated with subject matter experts, experienced plant engineers, and simulations specialists to design predictive models for enhanced control over manufacturing processes.
 
-Over the last two years, Dastur Energy has prioritized sustainability as the bedrock of new initiatives. Given the magnitude and the increasing rate of anthropogenic CO2 emissions, we have been working on decarbonizing major emitters in the heavy industry – oil refineries and integrated steel plants (ISPs). My role in these ventures has centered around the selection and simulation of appropriate carbon capture technologies. We modeled PFDs for Rectisol and Selexol based pre-combustion CO2 capture units coupled with gas conditioning units using {{< staticref "https://www.aspentech.com/en/products/engineering/aspen-hysys" "newtab" >}}Aspen Hysys{{< /staticref >}}. These PFDs were the basis for conceptualization of the world's first Hyper-Scale CO2-EOR enabling Petrochemicals Complex for a UAE based Oil & Gas Company. At present, we are designing an industrial-scale solution for capturing 50-70% of CO2 emissions from Blast Furnace gas at a 5 MTPA ISP facility in Illinois (US DoE funded). These projects' experiences and a strong drive to engage more rigorously with Carbon Capture and Utilization (CCU) technologies have galvanized me to apply for graduate studies.
+While at Dastur Energy, his team prioritized sustainability as the bedrock of new initiatives. Given the magnitude and the increasing rate of anthropogenic CO2 emissions, the team worked on decarbonizing major emitters in the heavy industry – oil refineries and integrated steel plants (ISPs). Raghav's role in these ventures has centered around the selection and simulation of appropriate carbon capture technologies.
+
+Through the projects undertaken, he has demonstrated mental agility while navigating uncertainty and ambiguity across the design, development, and deployment stages. He can work well in a team on account of his pleasing personality, which endears him to one and all. He is amiable and trustworthy. With his motivation, sincerity, and perseverance, Raghav can most satisfactorily and logically accomplish the task assigned to him.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
