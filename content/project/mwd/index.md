@@ -1,11 +1,10 @@
 ---
 title: Monitoring War Destruction using ML
-summary: Identifying severely damaged buildings in the civil war affected region
-of Aleppo, Syria by the application of machine learning on high-resolution satellite images
+summary: Identifying severely damaged buildings in the civil war affected region of Aleppo, Syria by the application of machine learning on high-resolution satellite images
 tags:
 - machine-learning
 - computer-vision
-date: "2020-11-17T18:06:49+05:30"
+date: "2023-1-25T18:06:49+05:30"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
