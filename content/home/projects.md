@@ -33,6 +33,8 @@ content:
     tag: machine-learning
   - name: Logistics
     tag: logistics
+  - name: Computer Vision
+    tag: computer-vision
   - name: Other
     tag: other
 

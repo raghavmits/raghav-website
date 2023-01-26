@@ -14,13 +14,13 @@ organizations:
   url: https://www.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Carbon Capture & Utilization and Energy Systems Engineering.
+bio: I am interested in deploying enterprise scale AI/ML solutions for manufacturing, microfinance and healthcare.
 
 # Interests to show in About widget
 interests:
-- Carbon Capture & Utilization
-- Energy Systems Engineering
-- Process Modeling & Simulation
+- AI solutions for Manufacturing, Microfinance, and Healthcare
+- Deploying, Maintaining and Improving real-time ML
+- Computer Vision
 
 # Education to show in About widget
 education:
