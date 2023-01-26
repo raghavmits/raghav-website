@@ -16,7 +16,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "media/ladsim.pdf"
+url_pdf: "media/mwd_cv.pdf"
 url_slides: ""
 url_video: ""
 
