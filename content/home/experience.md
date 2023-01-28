@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Associate Consultant
+  - title: Data Scientist
     company: M. N. Dastur & Co. (Energy & Process Metallurgy Division)
     company_url: 'http://www.dasturenergy.com/'
     location: Kolkata
     date_start: '2018-07-01'
-    date_end: ''
+    date_end: '2022-06-01'
     description: |2-
         * Developing Process Models leveraging Machine Learning for Operations Improvement at Integrated Steel Plants
         * Designing Process Flow Diagrams (PFDs) for simulating CO2 Capture systems aimed at Industrial Waste Gas Utilization
