@@ -23,17 +23,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Software Engineer in Test
-      company: Trimble Maps
-      company_url: 'http://www.maps.trimble.com/'
-      location: Berkeley, California
-      date_start: '2023-03-03'
-      date_end: ''
-      description: |2-
-        Responsibilities include:
-          * Automating API integration tests, reducing testing time by 30% for API functionality, data integrity, cross-service integration, error handling, & performance validation.
-          * Conducted thorough testing of web services for a seamless cloud platform migration needs, ensuring the health and reliability of ETL pipelines.
-          * Developed regression test suites, identifying CI/CD issues ensuring data pipeline reliability & efficiency.
-          
+    company: Trimble Maps
+    company_url: 'http://www.maps.trimble.com/'
+    location: Berkeley, California
+    date_start: '2023-03-03'
+    date_end: ''
+    description: |2-
+      Responsibilities include:
+        * Automating API integration tests, reducing testing time by 30% for API functionality, data integrity, cross-service integration, error handling, & performance validation.
+        * Conducted thorough testing of web services for a seamless cloud platform migration needs, ensuring the health and reliability of ETL pipelines.
+        * Developed regression test suites, identifying CI/CD issues ensuring data pipeline reliability & efficiency.
 
   - title: Graduate Student Instructor
     company: UC Berkeley, School of Data Science, Statistics and ESPM
@@ -42,9 +41,8 @@ experience:
     date_start: '2022-01-01'
     date_end: '2022-12-31'
     description: |2-
-        * Led discussion sections - reviewed the subject matter, facilitated an enhanced understanding of course content, provided individual help & assisted with grading for 175 students over 4 courses 
-        * Courses including Human Contexts and Ethics of Data and Introduction to Statistics.
-
+      * Led discussion sections - reviewed the subject matter, facilitated an enhanced understanding of course content, provided individual help & assisted with grading for 175 students over 4 courses.
+      * Courses including Human Contexts and Ethics of Data and Introduction to Statistics.
 
   - title: Data Scientist
     company: M. N. Dastur & Co. (Energy & Process Metallurgy Division)
@@ -53,8 +51,7 @@ experience:
     date_start: '2018-07-01'
     date_end: '2021-06-20'
     description: |2-
-        * Spearheaded analytics efforts identifying 9 operations improvement initiatives - improving yield, reducing energy consumption & materials consumption - saving $12 Mn annually for a Mexico-based Steel Plant.
-        * Effectively communicated findings and approaches to steel plant executives through cogent data visualizations, technical presentations, and summarized high-impact technical findings.
-        * Developed dynamic predictive models monitoring desulphurization process in ladles, optimizing processing time & resource consumption, with a potential of saving $6.5Mn for a 4.5MTPA steel plant.
-
+      * Spearheaded analytics efforts identifying 9 operations improvement initiatives - improving yield, reducing energy consumption & materials consumption - saving $12 Mn annually for a Mexico-based Steel Plant.
+      * Effectively communicated findings and approaches to steel plant executives through cogent data visualizations, technical presentations, and summarized high-impact technical findings.
+      * Developed dynamic predictive models monitoring desulphurization process in ladles, optimizing processing time & resource consumption, with a potential of saving $6.5Mn for a 4.5MTPA steel plant.
 ---
