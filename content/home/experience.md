@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer in Test
+      company: Trimble Maps
+      company_url: 'http://www.maps.trimble.com/'
+      location: Berkeley, California
+      date_start: '2023-03-03'
+      date_end: ''
+      description: |2-
+        Responsibilities include:
+          * Automating API integration tests, reducing testing time by 30% for API functionality, data integrity, cross-service integration, error handling, & performance validation.
+          * Conducted thorough testing of web services for a seamless cloud platform migration needs, ensuring the health and reliability of ETL pipelines.
+          * Developed regression test suites, identifying CI/CD issues ensuring data pipeline reliability & efficiency.
+          
+
   - title: Graduate Student Instructor
     company: UC Berkeley, School of Data Science, Statistics and ESPM
     company_url: 'http://www.berkeley.edu/'
@@ -40,8 +53,8 @@ experience:
     date_start: '2018-07-01'
     date_end: '2021-06-20'
     description: |2-
-        * Developing Process Models leveraging Machine Learning for Operations Improvement at Integrated Steel Plants
-        * Designing Process Flow Diagrams (PFDs) for simulating CO2 Capture systems aimed at Industrial Waste Gas Utilization
-        * Analytics lead for the team that identified 17 operations improvement initiatives with a potential of saving $65 Mn annually for the Integrated Steel Plant.
+        * Spearheaded analytics efforts identifying 9 operations improvement initiatives - improving yield, reducing energy consumption & materials consumption - saving $12 Mn annually for a Mexico-based Steel Plant.
+        * Effectively communicated findings and approaches to steel plant executives through cogent data visualizations, technical presentations, and summarized high-impact technical findings.
+        * Developed dynamic predictive models monitoring desulphurization process in ladles, optimizing processing time & resource consumption, with a potential of saving $6.5Mn for a 4.5MTPA steel plant.
 
 ---
