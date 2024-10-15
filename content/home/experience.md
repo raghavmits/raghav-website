@@ -38,29 +38,10 @@ experience:
     company_url: 'http://www.dasturenergy.com/'
     location: Kolkata
     date_start: '2018-07-01'
-    date_end: '2021-06-01'
+    date_end: '2021-06-20'
     description: |2-
         * Developing Process Models leveraging Machine Learning for Operations Improvement at Integrated Steel Plants
         * Designing Process Flow Diagrams (PFDs) for simulating CO2 Capture systems aimed at Industrial Waste Gas Utilization
         * Analytics lead for the team that identified 17 operations improvement initiatives with a potential of saving $65 Mn annually for the Integrated Steel Plant.
 
-  - title: Research Intern
-    company: National Center for Flexible Electronics (NCFlexe)
-    company_url: ''
-    location: IIT Kanpur
-    date_start: '2017-05-01'
-    date_end: '2017-07-30'
-    description: |2-
-        * Performed experiments to enhance adhesion between inert polymer surfaces and conducting inks comprising silver nanoparticles
-        * Characterized the wettability, chemical composition and adhesion of the coated ink using Goniometer, FTIR and Scotch Tape
-
-  - title: Research Intern
-    company: Nimbkar Agricultural Research Institute
-    company_url: ''
-    location: Phaltan
-    date_start: '2016-05-01'
-    date_end: '2016-07-30'
-    description: |2-
-        * Designed a water treatment plant based on solar sterlization to support a 3000-member village
-        * Designed a corresponding Solar based Vapor Absorption Refrigeration System calculating the efficiencies & load for the proposed plant
 ---
