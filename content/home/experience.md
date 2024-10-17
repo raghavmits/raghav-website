@@ -34,7 +34,7 @@ experience:
         * Conducted thorough testing of web services for a seamless cloud platform migration needs, ensuring the health and reliability of ETL pipelines.
         * Developed regression test suites, identifying CI/CD issues ensuring data pipeline reliability & efficiency.
 
-  - title: Graduate Student Instructor
+  - title: Graduate Student Instructor Bruah
     company: UC Berkeley, School of Data Science, Statistics and ESPM
     company_url: 'http://www.berkeley.edu/'
     location: Berkeley, California
