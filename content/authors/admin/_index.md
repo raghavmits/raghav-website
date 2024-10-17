@@ -11,7 +11,7 @@ role: Data Scientist, Looking for Roles
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Trimble Maps
-  url: https://www.maps.trimble.com
+  url: https://maps.trimble.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in deploying enterprise scale AI/ML solutions for manufacturing, microfinance and healthcare.
