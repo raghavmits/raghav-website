@@ -6,7 +6,7 @@ title: Raghav Mittal
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist, Looking for Roles
+role: Data Science and Engineering, Looking for Roles
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,14 +14,14 @@ organizations:
   url: https://maps.trimble.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in deploying enterprise scale AI/ML solutions for manufacturing, microfinance and healthcare.
+bio: I am interested in driving impact through data-driven solutions using my skills and experience in data engineering and analytics.
 
 # Interests to show in About widget
 interests:
 - Data Engineering
-- Causal Inference & Predictive Modeling
+- Predictive Modeling & Causal Inference
 - Clean Energy & Sustainability
-- Microfinance & Financial Inclusion
+- Computer Vision
 
 # Education to show in About widget
 education:
@@ -77,9 +77,9 @@ While at Dastur Energy, his team prioritized sustainability as the bedrock of ne
 Through the projects undertaken, he has demonstrated mental agility while navigating uncertainty and ambiguity across the design, development, and deployment stages. He can work well in a team on account of his pleasing personality, which endears him to one and all. He is amiable and trustworthy. With his motivation, sincerity, and perseverance, Raghav can most satisfactorily and logically accomplish the task assigned to him.
 -->
 
-I am a data scientist with over four years of experience driving operational improvements, energy optimization, and geospatial projects. I specialize in inferential thinking techniques—such as hypothesis testing and causal inference—as well as predictive modeling and data mining to create, test, and deploy adaptive solutions that translate business requirements into impactful outcomes.
+I am a data science and engineering professional with over four years of experience driving operational improvements, energy optimization, and geospatial projects. I specialize in data modeling, data mining, inferential thinking techniques and predictive modeling to create, test, and deploy adaptive solutions that translate business requirements into impactful outcomes.
 
-I thrive on collaborating with clients and stakeholders, deeply understanding their needs, and iterating to deliver tailored, high-quality solutions. I enjoy working in fast-paced, dynamic environments and am a passionate engineer, constantly learning and building innovative solutions that positively impact society.
+I thrive on collaborating with clients and stakeholders, deeply understanding their needs, and iterating to deliver tailored, high-quality solutions. I enjoy working in fast-paced, dynamic environments. I am a passionate engineer, constantly learning and building innovative solutions that positively impact society.
 
 Feel free to reach out for any exciting opportunities!
 
